@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/opensudan/website/blob/c415052d9c01bd4dbf6232fe9d79e055bb3e94b4/img/logo.png)
+![Logo](https://github.com/sudatae/website/blob/master/img/logo.png)
 
 
 [View the Website](https://data.sd)
