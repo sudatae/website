@@ -33,7 +33,7 @@ If you find an issue with the Sudata website or would like to suggest a new feat
 
 ## Communication
 
-If you have any questions or concerns about contributing to the Sudata website, please reach out to us on our [Email](dev@data.sd). We're happy to help and provide guidance on contributing to the project.
+If you have any questions or concerns about contributing to the Sudata website, please reach out to us on our email [dev@data.sd](mailto:dev@data.sd). We're happy to help and provide guidance on contributing to the project.
 
 ## License
 
